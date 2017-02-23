@@ -1,0 +1,20 @@
+{
+  "name": "derekweb",
+  "version": "1.0.0",
+  "description": "this is derek's first project",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Xin Li",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "express": "^4.14.1",
+    "requirejs": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  }
+}
