@@ -2,3 +2,12 @@
   --main-color: #06c;
   --accent-color: #006;
 }
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}

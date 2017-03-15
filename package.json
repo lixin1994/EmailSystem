@@ -9,9 +9,10 @@
   "author": "Xin Li",
   "license": "ISC",
   "dependencies": {
-    "angularjs": "0.0.1",
+    "angular": "^1.6.2",
     "express": "^4.14.1",
-    "requirejs": "^2.3.3"
+    "requirejs": "^2.3.3",
+    "sequelize": "^3.30.2"
   },
   "repository": {
     "type": "git",
